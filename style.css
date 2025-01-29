@@ -1,0 +1,199 @@
+html {
+    height: 100%;
+}
+
+/* #ca3a99 pink
+#670047 dark pink
+#7c5ea4 dark purple
+#b08de1 light purple
+#98e2e6 light blue
+
+rgb(156, 30, 129) deep pink
+
+    
+gray: #8c92ac
+current blue: #cae2f7
+white: #d8e7f4
+*/
+
+body {
+    background-color: #d8e7f4;
+    background-image: url(https://github.com/LolasCommunityKitchen/lolascommunitykitchen.github.io/blob/d73739e58ee1e53e96687a0d685e90bd6eb9b75a/lolackbackground.png); 
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header {
+    
+    background-color: #8c92ac;
+    height: 170px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 0px;
+    border-radius: 15px 15px 0px 0px;
+
+}
+
+header p {
+    color: #d8e7f4;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    font-family: 'Noto Sans';
+    text-shadow: 5px 5px 5px #7c5ea4;
+}
+
+nav {
+    background-image: linear-gradient(180deg, #8c92ac, #8c92ac, #d8e7f4);
+    text-align: center; 
+    margin-top: 0px;
+    height: 70px;
+    
+    
+
+}
+
+main {
+    background-color: #d8e7f4;
+    height: 400px;
+    text-align: center;
+    
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    
+    
+}
+
+main p {
+
+    padding-top: 30px;
+    text-align: center;
+    padding-left: 280px;
+    padding-right: 280px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    color: #535665;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+footer {
+    background-color: #d8e7f4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 810px;
+    padding-bottom: 50px;
+    border-radius: 12px;
+}
+
+footer p {
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 165px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+
+}
+
+h1 {
+    font-size: 40px;
+    color: #8c92ac;
+    font-family: 'Noto Sans';
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 40px;
+    color: #7c5ea4;
+    font-family: 'Noto Sans';
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+
+nav p {
+    font-size: 20px;
+    color: #d8e7f4;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding-left: 40px;
+    
+}
+/* this is a comment */
+
+a {
+    color: #d8e7f400;
+    font-family:Arial, Helvetica, sans-serif;
+    /*text-decoration: none;*/
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.button1 {
+    background-color: #8c92ac;
+    border: none;
+    border-radius: 12px;
+    color: #d8e7f4;
+    padding: 50px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Noto sans';
+  }
+  
+.button1:hover {
+    background-color: #7c5ea4;
+    color: #d8e7f4;
+    border-radius: 12px;
+    font-family: 'noto sans';
+  }
+
+  .button2 {
+    background-color: #8c92ac;
+    border: none;
+    border-radius: 12px;
+    color: #d8e7f4;
+    padding: 20px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Noto sans';
+  }
+  
+.button2:hover {
+    background-color: #7c5ea4;
+    color: #d8e7f4;
+    border-radius: 12px;
+    font-family: 'noto sans';
+  }
+
+  
+  
